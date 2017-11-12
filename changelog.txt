@@ -1,0 +1,33 @@
+10/11/2017
+  * Aggiornato CTRLX; rimosso l'errore che restituiva quando non si inseriva il nome dell'applicazione e si voleva uscire.
+
+14-08-2017:
+  * Aggiornati Connectx e cpserver con estensione dei server memorizzati, da adesso sono 10
+
+2/10/2016:
+  * Aggiunto Script per smontaggio unità
+
+27-09-2016:
+  * Estensione server memorizzati, da adesso sono 5
+
+26-09-2016:
+  * Aggiunta possibilità di interrogare server non memorizzati, quick services
+
+25-09-16
+  * Correzione bug
+
+19-09-16:
+  * Aggiunto script util_script.sh
+
+16-09-2016:
+  * Aggiunto lo script cp_server.sh
+  * Risoluzioni di bug e migliorie
+
+22-07-16:
+  * Script reso multi server
+
+06-06-2016:
+  * Risoluzioni di bug e migliorie
+
+11-04-2016:
+  * Rilascio versione iniziale
